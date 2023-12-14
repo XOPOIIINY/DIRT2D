@@ -28,6 +28,5 @@ class Game:
 
 
 if __name__ == '__main__':
-    print('nigger')
     game = Game()
     game.run()
